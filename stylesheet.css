@@ -9,10 +9,6 @@ img{
   border:10px solid red;
   width:1000px;
 }
-#additem{
-  /*border:1px solid red;*/
-  /*width:1px;*/
-}
 .options{
   display:inline-block;
   width: 20%;
