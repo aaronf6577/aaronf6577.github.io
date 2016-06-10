@@ -1,7 +1,11 @@
 h1{
-  color:green;
+  color:#00ff00;
+h3{
+  color:#336600;
+}
 }
 li{
+  border:3px solid black;
  color:#666633;
 }
 #BG{
